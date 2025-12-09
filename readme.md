@@ -48,8 +48,8 @@
 ---
 
 ### 📸 〢 Screenshots
-<img title="" src="" alt="https://i.postimg.cc/9QF3tC65/Desktop2025-12-09-20-05-41-02online-video-cutter-com-ezgif-com-video-to-gif-converter.gif" width="820">
-<img title="" src="" alt="https://i.postimg.cc/qRFzs1bs/Screenshot-2.png" width="820">
+<img title="" src="https://i.postimg.cc/9QF3tC65/Desktop2025-12-09-20-05-41-02online-video-cutter-com-ezgif-com-video-to-gif-converter.gif" alt="" width="820">
+<img title="" src="https://i.postimg.cc/qRFzs1bs/Screenshot-2.png" alt="" width="820">
 <img title="" src="" alt="" width="820">
 <img title="" src="" alt="" width="820">
 <img title="" src="" alt="" width="820">
