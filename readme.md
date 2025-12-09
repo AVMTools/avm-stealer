@@ -23,7 +23,7 @@
 - [⚔️ Features](#features)
 - [📝 Todo-list](#todo)
 - [📜 License](#license)
-- [⚠️ Disclaimer](#note)
+- [⚠️Disclaimer](#note)
 
 <a id="setup"></a>
 
