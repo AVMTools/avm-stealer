@@ -84,7 +84,7 @@
 </td>
 <td width="33%" style="background-color: #0d0d0d; padding: 20px; border-radius: 10px; border: 2px solid #28a745;">
 
-### 🥷 **Stealth & Evasion**
+###  🕵️‍♂️ **Stealth & Evasion**
 
 <div style="background-color: #0f1a0f; padding: 15px; border-radius: 8px; margin: 10px 0;">
 
