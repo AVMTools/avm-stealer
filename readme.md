@@ -3,12 +3,6 @@
 ⚔️ I SHARE SOURCE CODE AT 15 STARS ⭐
 </h1>
 
-<p align="center"> 
-  <kbd>
-<img src="https://i.postimg.cc/Fsn6X3fx/photo-2025-12-09-19-40-01.jpg" width="328"></img>
-  </kbd>
-</p>
-
 <h1 align="center">
   Telegram Community: https://t.me/AVMTools
   <br>
