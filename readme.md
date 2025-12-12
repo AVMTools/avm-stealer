@@ -103,9 +103,9 @@
 
 <div style="background-color: #2a1a00; padding: 15px; border-radius: 8px; margin: 10px 0;">
 
-- **Browser Credentials** - Chrome, Opera, Edge, Brave and more
-- **Crypto Wallets** - Exodus, Atomic, Electrum, MetaMask and more
-- **Communication Apps** - Discord, Telegram, WhatsApp and more
+- **Browser Credentials** - Chrome, Opera, Edge, Brave...
+- **Crypto Wallets** - Exodus, Atomic, Electrum, MetaMask...
+- **Communication Apps** - Discord, Telegram, WhatsApp...
 - **System Intelligence** - HWID, processes, antivirus
 - **Visual Surveillance** - Screenshots, Persistance, clipboard
 
