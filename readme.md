@@ -61,7 +61,100 @@
 
 ### ⚔️ 〢 Features
 
-#### Stealer
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" style="background-color: #0d0d0d; padding: 20px; border-radius: 10px; border: 2px solid #007bff;">
+
+### 🎯 **Professional Features**
+
+<div style="background-color: #0f1a2a; padding: 15px; border-radius: 8px; margin: 10px 0;">
+
+- **Advanced Encryption** - Dynamique Encryption
+- **Advanced Anti-Detection** - Evade all security solutions
+- **Advanced Payload Builder** - 10 sec to build payload
+- **One-Click Generation** - No coding required
+- **Real-Time Exfiltration** - Instant data delivery
+
+</div>
+
+</td>
+<td width="33%" style="background-color: #0d0d0d; padding: 20px; border-radius: 10px; border: 2px solid #28a745;">
+
+### 🥷 **Stealth & Evasion**
+
+<div style="background-color: #0f1a0f; padding: 15px; border-radius: 8px; margin: 10px 0;">
+
+- **Hidden Execution** - Completely invisible to users
+- **Process Masquerading** - Disguise as system processes
+- **VM Detection** - Evade virtual environments
+- **Sandbox Evasion** - Bypass automated analysis
+- **Anti-Debugging** - Prevent reverse engineering
+
+</div>
+
+</td>
+<td width="33%" style="background-color: #0d0d0d; padding: 20px; border-radius: 10px; border: 2px solid #ffc107;">
+
+### 🔐 **Target Capabilities**
+
+<div style="background-color: #2a1a00; padding: 15px; border-radius: 8px; margin: 10px 0;">
+
+- **Browser Credentials** - Chrome, Opera, Edge, Brave and more
+- **Crypto Wallets** - Exodus, Atomic, Electrum, MetaMask and more
+- **Communication Apps** - Discord, Telegram, WhatsApp and more
+- **System Intelligence** - HWID, processes, antivirus
+- **Visual Surveillance** - Screenshots, Persistance, clipboard
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" style="background-color: #0d0d0d; padding: 20px; border-radius: 10px; border: 2px solid #dc3545;">
+
+### 📤 **Delivery Methods**
+
+<div style="background-color: #2a0a0a; padding: 15px; border-radius: 8px; margin: 10px 0;">
+
+- **Discord Webhooks** - Instant data delivery
+- **Telegram Bots** - Secure bot-based transmission
+- **HTTP POST** - Custom endpoint delivery
+- **Email SMTP** - Direct email transmission
+- **FTP Upload** - File-based exfiltration
+
+</div>
+
+</td>
+<td width="50%" style="background-color: #0d0d0d; padding: 20px; border-radius: 10px; border: 2px solid #6f42c1;">
+
+### ⚡ **Performance & Reliability**
+
+<div style="background-color: #1a1a2a; padding: 15px; border-radius: 8px; margin: 10px 0;">
+
+- **Lightning Fast** - Optimized JS performance
+- **Zero Dependencies** - Statically linked executables
+- **Cross-Platform** - Works on Linux and Windows
+- **Professional GUI** - Intuitive tabbed interface
+- **Regular Updates** - Continuous improvements
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 > Steal Backup 2FA Code [ Discord, Epic Games, Github ]
 >
