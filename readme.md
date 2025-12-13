@@ -4,26 +4,39 @@
 </h1>
 
 <p align="center"> 
+      <br />
   <kbd>
 <img src="https://i.postimg.cc/Wz5t1ww2/Screenshot-1(1).jpg" width="300"></img>
   </kbd>
 </p>
 
-<h1 align="center">
-  Telegram Community: https://t.me/AVMTools
-  <br>
-  <br>
-</h1>
+  
+
+<p align="center">
+  <br />
+  <a href="https://github.com/AVMTools/avm-stealer/issues"><b>Report Bug</b></a>
+  ·
+  <a href="https://t.me/avmchats"><b>Request Feature</b></a>
+  ·
+  <a href="https://github.com/AVMTools/avm-stealer/pulls"><b>Send a Pull Request</b></a>
+</p>
+
+
+<!-- ABOUT THE PROJECT -->
+
+## ℹ️ 〢 About The Project
+> [!NOTE]
+AVM-Tools provide you **free**, **FUD** and **Open-Source Project**, bypassing all anti viruses during runtime and scantime, **Fully Undetectable** and **silent**, Our project can recover **all Browser Credentials** like **new chrome cookies App-Bound**, passwords autofills etc...
 
 
 ## 🌐 〢 Content
 
-- [📁 Setting up](#setup)
-- [📸 Screenshots](#screenshot)
-- [⚔️ Features](#features)
-- [📝 Todo-list](#todo)
-- [📜 License](#license)
-- [🔒 Disclaimer](#note)
+> - [📁 Setting up](#setup)
+> - [📸 Screenshots](#screenshot)
+> - [⚔️ Features](#features)
+> - [📝 Todo-list](#todo)
+> - [📜 License](#license)
+> - [🔒 Disclaimer](#note)
 
 <a id="setup"></a>
 
