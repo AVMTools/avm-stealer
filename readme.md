@@ -27,6 +27,8 @@
 ## ℹ️ 〢 About The Project
 > [!NOTE]
 AVM-Tools provide you **free**, **FUD** and **Open-Source Project**, bypassing all anti viruses during runtime and scantime, **Fully Undetectable** and **silent**, Our project can recover **all Browser Credentials** like **new chrome cookies App-Bound**, passwords autofills etc...
+> 
+> <a href="https://t.me/avmtools"><img src="https://img.shields.io/badge/Join%20my%20Telegram%20group-2CA5E0?style=for-the-badge&logo=telegram&labelColor=ffffff&color=0587B6"></a>  <a href="https://t.me/WallGod69"><img src="https://img.shields.io/badge/Contact%20me%20on%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&labelColor=ffffff&color=0587B6"></a> <a href="https://www.instagram.com/avmstealer/"><img src="https://img.shields.io/badge/Follow%20my%20Instagram-2CA5E0?style=for-the-badge&logo=instagram&labelColor=FE0ABD&color=ffffff"></a>
 
 
 ## 🌐 〢 Content
