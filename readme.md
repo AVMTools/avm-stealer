@@ -78,7 +78,7 @@
 <tr>
 <td width="33%" style="background-color: #0d0d0d; padding: 20px; border-radius: 10px; border: 2px solid #007bff;">
 
-### 🎯 **Professional Features**
+### 👨🏻‍💻 **Professional Features**
 
 <div style="background-color: #0f1a2a; padding: 15px; border-radius: 8px; margin: 10px 0;">
 
