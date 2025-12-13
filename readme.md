@@ -165,40 +165,6 @@
 
 </div>
 
-> Steal Backup 2FA Code [ Discord, Epic Games, Github ]
->
-> Wallet Injection 12words + passwords [ Exodus, Atomic ]
-> 
-> Percistance Hidden Startup + if reg get deleted = auto come back :)
->
-> Files Stealer [.txt, .doc, .docx, .rdp, .pdf and more]
->
-> Binder, will add exclusion to your file to bypass defender.
->
-> Screenshots all screen
-
-> FTP stealer (FileZilla)
->
-> VPN Stealer
-
-
-### 🏹 〢 Additional
-
-> Internet connection check every 3 seconds before it starts stealing
->
-> Dynamique Encryption/Obfuscation
->
-> Disable UAC / Anti-Debug / Anti-VM / Blue Screen if detect
->
-> No Traces, silent and permanant
->
-> Validates a found discord token and then sends it to your discord webhook
->
-> Sends all files to your discord webhook in beautiful embeds and a structured zip file
->
-> Automatic obfuscation when building (12 sec to build exe | 30-40mb)
-
-
 <a id="todo"></a>
 
 ---
