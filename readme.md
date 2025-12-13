@@ -152,8 +152,8 @@
 <div style="background-color: #1a1a2a; padding: 15px; border-radius: 8px; margin: 10px 0;">
 
 - **Lightning Fast** - Optimized JS performance
-- **Zero Dependencies** - Statically linked executables
-- **Cross-Platform** - Works on all Windows 7/8-10-11
+- **Zero Dependencies** - Statically linked exe
+- **Cross-Platform** - Works on all Windows 10-11
 - **Professional GUI** - Intuitive tabbed interface
 - **Regular Updates** - Continuous improvements
 
