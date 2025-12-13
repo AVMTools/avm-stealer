@@ -165,51 +165,12 @@
 > Files Stealer [.txt, .doc, .docx, .rdp, .pdf and more]
 >
 > Binder, will add exclusion to your file to bypass defender.
-> 
-> Discord Token, Friends with rare badges, Credit card
->
-> Discord Info - Username, Phone number, Email, Billing, Nitro Status & Backup Codes
->
-> Discord About Me changer, HQ Guilds Admin/Owner
->
-> No Dependent Clipper (exe does not need to stay running for the clipper to work)
->
-> Grabs crypto wallets -
-> Zcash,
-> Armory,
-> Bytecoin,
-> Jaxx,
-> Exodus,
-> Ethereum,
-> Electrum,
-> AtomicWallet,
-> Guarda,
-> Coinomi,
-> MetaMask
->
-> Browser (Chrome, Opera, Firefox, OperaGX, Edge, Brave, Yandex) -
-> Passwords, Cookies, Autofill & History (Searches for specific keywords such as PayPal, Coinbase etc. in them)
 >
 > Screenshots all screen
->
-> Telegram Session stealer
-> 
+
 > FTP stealer (FileZilla)
 >
 > VPN Stealer
->
-> Growtopia Stealer
->
-> Minecraft Session stealer & validator
-> 
-> Roblox Session stealer & validator
->
-> Steam Session stealer & validator
->
-> TikTok Session stealer & validator
->
-> Epic Games Launcher Session stealer
-
 
 
 ### 🏹 〢 Additional
