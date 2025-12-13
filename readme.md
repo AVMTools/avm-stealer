@@ -171,18 +171,18 @@
 
 ### 📝 〢 Todo
 
-> - More features (VPN's, Gaming, Messengers)
-> - Recive log by Telegram
-> - Telegram bot to build within Telegram
-> - More Persistance
-> - Firefox stealer
-> - [Click here](https://t.me/avmchats/1) to request new features that you would like to see in the next version of our software ?
+> - [x] More features (VPN's, Gaming, Messengers)
+> - [x] Recive log by Telegram
+> - [ ] Telegram bot to build within Telegram
+> - [ ] More Persistance
+> - [ ] Firefox stealer
+> - [x] [Click here](https://t.me/avmchats/1) to request new features that you would like to see in the next version of our software ?
 <a id="license"></a>
 
 ---
 
 ### 📜 〢 License
-
+> [!NOTE]
 By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see [commonsclause](https://commonsclause.com/)
 
 <a id="note"></a>
@@ -190,11 +190,8 @@ By downloading this, you agree to the Commons Clause license and that you're not
 ---
 
 ### ⚠️ 〢 Disclaimer
-
-This project is provided **for educational, experimental, and development purposes only**.  
-Any malicious, illegal, or improper use of this code is strictly prohibited.
-
-The author **is not responsible** for any misuse, damages, or violations caused by third parties using this project.
-
-By downloading or using this project,  
-**you accept full responsibility for your own use**.
+> [!CAUTION]
+> This project is provided **for educational, experimental, and development purposes only**.  
+> Any malicious, illegal, or improper use of this code is strictly prohibited.
+> The author **is not responsible** for any misuse, damages, or violations caused by third parties using this project.
+> By downloading or using this project, **you accept full responsibility for your own use**.
