@@ -1,6 +1,6 @@
 <a id="top"></a>
 <h1 align="center">
-⚔️ I SHARE SOURCE CODE AT 15 STARS ⭐
+⚔️ SOURCE CODE SHARED AT 15 STARS ⭐
 </h1>
 
 <h1 align="center">
