@@ -137,7 +137,7 @@
 <div style="background-color: #2a0a0a; padding: 15px; border-radius: 8px; margin: 10px 0;">
 
 - **Discord Webhooks** - Instant data delivery
-- **Telegram Bots** - Secure bot-based transmission
+- **Telegram Bots** - Instant data delivery
 - **HTTP POST** - Custom endpoint delivery
 - **Secured Upload** - Upload on Gofile.io
 - **Protected Host** - Webhook or bot encrypted
