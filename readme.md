@@ -22,20 +22,29 @@
 <a id="setup"></a>
 
 ---
-
 ### 📁  〢 Setting Up
-> 
-> Install [Python](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe) `IMPORTANT: Install This Pecific Python Version`
-> 
-> Install [Node.js](https://nodejs.org/dist/v22.11.0/node-v22.11.0-x64.msi) `IMPORTANT: Install NodeJS with Tools for Native Modules`
-> 
-> ***VERY IMPORTANT***: When installing Node.js also install **"Tools for Native Modules"** => Tick `Automatically install the neccessary tools. Note that this will also install Chocolatey. The script will pop-up in a new window after the installation completes.`
+
+> ⚠️ **IMPORTANT – READ CAREFULLY**
 >
-> First run the `install.bat` file to install all necessary packages and `start.bat`.
+> 🔹 **Python**
+> - Install **Python 3.10.0 ONLY**  
+> https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe  
 >
-> After the build, click `Ressources` to choose an icon for your executable. 
-> ``The filetype must be ".ico" and the icon should be 16x16px, 32x32px, 64x64px, 128x128px, 256x256px`` 
+> 🔹 **Node.js**
+> - Install **Node.js v22.11.0**  
+> https://nodejs.org/dist/v22.11.0/node-v22.11.0-x64.msi  
+> - ✅ **MUST CHECK:** *Tools for Native Modules*  
+> - ☑️ *Automatically install necessary tools (Chocolatey)*  
+> ![Node.js Tools](https://i.postimg.cc/28Z0vLhV/image.png)
 >
+> 🔹 **Run**
+> - `install.bat` → install dependencies  
+> - `start.bat` → start builder interface 
+>
+> 🎨 **Icon**
+> - Supported format: `.ico` only  
+> - Sizes: `16, 32, 64, 128, 256 px`
+
 
 <a id="screenshot"></a>
 
