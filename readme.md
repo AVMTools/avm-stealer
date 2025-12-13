@@ -82,9 +82,9 @@
 
 <div style="background-color: #0f1a2a; padding: 15px; border-radius: 8px; margin: 10px 0;">
 
-- **Advanced Encryption** - Dynamique Encryption
+- **Advanced Encryption** - Dynamique Encryption FUD
 - **Advanced Anti-Detection** - Evade all security solutions
-- **Advanced Payload Builder** - 10 sec to build payload
+- **Wallet Injection** - Exodus/Atomic Wallet seedphrase
 - **One-Click Generation** - No coding required
 - **Real-Time Exfiltration** - Instant data delivery
 
@@ -100,7 +100,7 @@
 - **Hidden Execution** - Completely invisible to users
 - **Process Masquerading** - Disguise as system processes
 - **VM Detection** - Evade virtual environments
-- **Anti-Virus Evasion** - Bypass All Antivirus FUD
+- **Anti-Virus Evasion** - Bypass All Antivirus
 - **Anti-Debugging** - Prevent reverse engineering
 
 </div>
