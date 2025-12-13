@@ -100,7 +100,7 @@
 - **Hidden Execution** - Completely invisible to users
 - **Process Masquerading** - Disguise as system processes
 - **VM Detection** - Evade virtual environments
-- **Sandbox Evasion** - Bypass automated analysis
+- **Anti-Virus Evasion** - Bypass All Antivirus FUD
 - **Anti-Debugging** - Prevent reverse engineering
 
 </div>
@@ -139,8 +139,8 @@
 - **Discord Webhooks** - Instant data delivery
 - **Telegram Bots** - Secure bot-based transmission
 - **HTTP POST** - Custom endpoint delivery
-- **Email SMTP** - Direct email transmission
-- **FTP Upload** - File-based exfiltration
+- **Secured Upload** - Upload on Gofile.io
+- **Protected Host** - Webhook or bot encrypted
 
 </div>
 
@@ -153,7 +153,7 @@
 
 - **Lightning Fast** - Optimized JS performance
 - **Zero Dependencies** - Statically linked executables
-- **Cross-Platform** - Works on Linux and Windows
+- **Cross-Platform** - Works on all Windows 7/8-10-11
 - **Professional GUI** - Intuitive tabbed interface
 - **Regular Updates** - Continuous improvements
 
