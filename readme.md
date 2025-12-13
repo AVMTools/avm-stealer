@@ -153,7 +153,7 @@
 
 - **Lightning Fast** - Optimized JS performance
 - **Zero Dependencies** - Statically linked exe
-- **Cross-Platform** - Works on all Windows 10-11
+- **Cross-Platform** - Works on Windows 10-11
 - **Professional GUI** - Intuitive tabbed interface
 - **Regular Updates** - Continuous improvements
 
