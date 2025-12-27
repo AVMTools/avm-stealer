@@ -18,7 +18,7 @@
   ·
   <a href="https://t.me/avmchats"><b>Request Feature</b></a>
   ·
-  <a href="https://github.com/AVMTools/avm-stealer/pulls"><b>Send a Pull Request</b></a>
+  <a href="https://github.com/AVMTools/avm-stealer/releases"><b>Lestest Release</b></a>
 </p>
 
 
