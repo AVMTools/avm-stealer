@@ -72,19 +72,10 @@ AVM-Tools provide you **free**, **FUD** and **Open-Source Project**, bypassing a
 ---
 
 ### 📸 〢 Screenshots
+<img src="https://i.postimg.cc/tC160CGk/vt.png" width="820">
 <img src="icon/main.gif" width="820">
 <img src="icon/final.gif" width="820">
-<img title="" src="https://i.postimg.cc/qRFzs1bs/Screenshot-2.png" alt="" width="820">
-<img title="" src="" alt="" width="820">
-<img title="" src="" alt="" width="820">
-<img title="" src="" alt="" width="820">
-<img title="" src="" alt="" width="820">
-<img title="" src="" alt="" width="820">
-<img title="" src="" alt="" width="820">
-<img title="" src="" alt="" width="820">
-<img title="" src="" alt="" width="820">
-<img title="" src="" alt="" width="820">
-
+<img src="https://i.postimg.cc/qRFzs1bs/Screenshot-2.png" width="820">
 <a id="features"></a>
 
 
