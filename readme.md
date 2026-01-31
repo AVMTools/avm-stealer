@@ -77,6 +77,9 @@ AVM-Tools provide you **free**, **FUD** and **Open-Source Project**, bypassing a
 <img src="icon/final.gif" width="820">
 <img src="https://i.postimg.cc/qRFzs1bs/Screenshot-2.png" width="820">
 <a id="features"></a>
+<video autoplay loop muted playsinline>
+  <source src="dc.mp4" type="video/mp4">
+</video>
 
 
 ---
