@@ -75,11 +75,10 @@ AVM-Tools provide you **free**, **FUD** and **Open-Source Project**, bypassing a
 <img src="icon/main.gif" width="820">
 <img src="icon/final.gif" width="820">
 <img src="https://i.postimg.cc/qRFzs1bs/Screenshot-2.png" width="820">
+<img src="icon/dc.gif" width="820">
+<img src="icon/info.gif" width="820">
+
 <a id="features"></a>
-
-
-
-
 ---
 
 ### ⚔️ 〢 Features
